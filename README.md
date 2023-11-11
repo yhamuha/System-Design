@@ -1,5 +1,5 @@
 # system design topics
-covered:
+
  - Proximity service
  - Nearby friends
  - Google maps
