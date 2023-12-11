@@ -7,5 +7,10 @@
  - [Metrics Monitoring and Alerting system](https://github.com/yhamuha/sys-des/blob/main/des/monitoring-alerting.jpg)
  - [Add Click Event Aggregation](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-event-aggregation.pdf)
  - Distributed email service
- - 
+ - [Hotel Reservation System](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.pdf)
+ - S3-like Object Storage
+ - Real-Time Gaming Leaderboard
+ - Payment System
+ - Digital Wallet
+ - Stock Exchange
  
