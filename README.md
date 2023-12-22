@@ -8,7 +8,7 @@
  - [Add Click Event Aggregation](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-event-aggregation.pdf)
  - [Distributed email service](https://github.com/yhamuha/sys-des/blob/main/des/email-service.pdf)
  - [Hotel Reservation System](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.pdf)
- - S3-like Object Storage
+ - [S3-like Object Storage](https://github.com/yhamuha/sys-des/blob/main/des/s3_like_object_storage.pdf)
  - Real-Time Gaming Leaderboard
  - Payment System
  - Digital Wallet
