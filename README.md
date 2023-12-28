@@ -9,7 +9,7 @@
  - [Distributed email service](https://github.com/yhamuha/sys-des/blob/main/des/email-service.pdf)
  - [Hotel Reservation System](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.pdf)
  - [S3-like Object Storage](https://github.com/yhamuha/sys-des/blob/main/des/s3_like_object_storage.pdf)
- - Real-Time Gaming Leaderboard
+ - [Real-Time Gaming Leaderboard](https://github.com/yhamuha/sys-des/blob/main/des/real-time-gaming-leaderboard.pdf)
  - Payment System
  - Digital Wallet
  - Stock Exchange
