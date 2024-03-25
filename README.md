@@ -8,7 +8,8 @@
  - [Add Click Event Aggregation](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-event-aggregation.pdf)
  - [Distributed email service](https://github.com/yhamuha/sys-des/blob/main/des/email-service.pdf)
  - [Hotel Reservation System](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.pdf)
- - [S3-like Object Storage](https://github.com/yhamuha/sys-des/blob/main/des/s3_like_object_storage.pdf)
+ - [S3-like Object Storage](https://github.com/yhamuha/sys-des/blob/main/des/s3_like_object_storage.pdf); 
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-storage-system.png)
  - [Real-Time Gaming Leaderboard](https://github.com/yhamuha/sys-des/blob/main/des/real-time-gaming-leaderboard.pdf)
  - [Payment System](https://github.com/yhamuha/sys-des/blob/main/des/payment-system.pdf)
  - [Digital Wallet](https://github.com/yhamuha/sys-des/blob/main/des/digital-wallet.pdf)
