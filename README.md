@@ -7,7 +7,8 @@
  - [Metrics Monitoring and Alerting system](https://github.com/yhamuha/sys-des/blob/main/des/monitoring-alerting.jpg) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/metric-alerting-system.jpg)
  - [Add Click Event Aggregation](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-event-aggregation.pdf) | 
-       [mock](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-aggregation.png)
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-aggregation.png) | 
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/add-click-aggr.png)
  - [Distributed email service](https://github.com/yhamuha/sys-des/blob/main/des/email-service.pdf)
  - [Hotel Reservation System](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.pdf)
  - [S3-like Object Storage](https://github.com/yhamuha/sys-des/blob/main/des/s3_like_object_storage.pdf) | 
