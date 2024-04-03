@@ -20,4 +20,8 @@
  - [Digital Wallet](https://github.com/yhamuha/sys-des/blob/main/des/digital-wallet.pdf)
  - [Stock Exchange](https://github.com/yhamuha/sys-des/blob/main/des/stock-exchange.pdf)
  - [B-tree](https://github.com/yhamuha/sys-des/blob/main/des/b-tree.jpeg)
+
+### OOD:
+
+- [Parking Lot](https://github.com/yhamuha/sys-des/blob/main/ood/parking-lot.png)
  
