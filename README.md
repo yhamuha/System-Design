@@ -18,7 +18,8 @@
  - [Real-Time Gaming Leaderboard](https://github.com/yhamuha/sys-des/blob/main/des/real-time-gaming-leaderboard.pdf)
  - [Payment System](https://github.com/yhamuha/sys-des/blob/main/des/payment-system.pdf) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/payment-system.png)
- - [Digital Wallet](https://github.com/yhamuha/sys-des/blob/main/des/digital-wallet.pdf)
+ - [Digital Wallet](https://github.com/yhamuha/sys-des/blob/main/des/digital-wallet.pdf) | 
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/digital-wallet-mock.png)
  - [Stock Exchange](https://github.com/yhamuha/sys-des/blob/main/des/stock-exchange.pdf)
  - [B-tree](https://github.com/yhamuha/sys-des/blob/main/des/b-tree.jpeg)
 
