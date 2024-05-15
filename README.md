@@ -22,8 +22,9 @@
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/digital-wallet-mock.png)
  - [Stock Exchange](https://github.com/yhamuha/sys-des/blob/main/des/stock-exchange.pdf)
  - [B-tree](https://github.com/yhamuha/sys-des/blob/main/des/b-tree.jpeg)
+ - [Kafka](https://github.com/yhamuha/sys-des/blob/main/des/kafka.jpg)
 
 ### ood:
 
-- [Parking Lot](https://github.com/yhamuha/sys-des/blob/main/ood/parking-lot.png)
+ - [Parking Lot](https://github.com/yhamuha/sys-des/blob/main/ood/parking-lot.png)
  
