@@ -24,6 +24,7 @@
  - [Stock Exchange](https://github.com/yhamuha/sys-des/blob/main/des/stock-exchange.pdf)
  - [B-tree](https://github.com/yhamuha/sys-des/blob/main/des/b-tree.jpeg)
  - [Kafka](https://github.com/yhamuha/sys-des/blob/main/des/kafka.jpg)
+ - [HTTP Rate Limiter](https://github.com/yhamuha/sys-des/blob/main/des/http-rate-limiter.png)
 
 ### ood:
 
