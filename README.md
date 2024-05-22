@@ -25,6 +25,7 @@
  - [B-tree](https://github.com/yhamuha/sys-des/blob/main/des/b-tree.jpeg)
  - [Kafka](https://github.com/yhamuha/sys-des/blob/main/des/kafka.jpg)
  - [HTTP Rate Limiter](https://github.com/yhamuha/sys-des/blob/main/des/http-rate-limiter.png)
+ - [Search Autocomplete System](https://github.com/yhamuha/sys-des/blob/main/des/autocomplete-system.png)
 
 ### ood:
 
