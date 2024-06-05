@@ -27,6 +27,7 @@
  - [HTTP Rate Limiter](https://github.com/yhamuha/sys-des/blob/main/des/http-rate-limiter.png)
  - [Search Autocomplete System](https://github.com/yhamuha/sys-des/blob/main/des/autocomplete-system.png)
  - [URL Shortener](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener.png)
+ - [YouTube](https://github.com/yhamuha/sys-des/blob/main/des/youtube.png)
 
 ### ood:
 
