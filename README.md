@@ -27,6 +27,7 @@
  - [HTTP Rate Limiter](https://github.com/yhamuha/sys-des/blob/main/des/http-rate-limiter.png)
  - [Search Autocomplete System](https://github.com/yhamuha/sys-des/blob/main/des/autocomplete-system.png)
  - [URL Shortener](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener.png)
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/url_shortener.jpg)
  - [YouTube](https://github.com/yhamuha/sys-des/blob/main/des/youtube.png)
  - [Google Drive](https://github.com/yhamuha/sys-des/blob/main/des/google-drive.png)
  - [Web Crowler](https://github.com/yhamuha/sys-des/blob/main/des/web-crowler.png)
