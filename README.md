@@ -31,7 +31,7 @@
  - [YouTube](https://github.com/yhamuha/sys-des/blob/main/des/youtube.png)
  - [Google Drive](https://github.com/yhamuha/sys-des/blob/main/des/google-drive.png)
  - [Web Crowler](https://github.com/yhamuha/sys-des/blob/main/des/web-crowler.png)
- - [Instagram](https://github.com/yhamuha/sys-des/blob/main/des/instagram.png)
+ - [Instagram](https://github.com/yhamuha/sys-des/blob/main/des/instagram.jpg)
 
 ### ood:
 
