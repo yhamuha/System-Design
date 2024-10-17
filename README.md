@@ -28,7 +28,8 @@
  - [Search Autocomplete System](https://github.com/yhamuha/sys-des/blob/main/des/autocomplete-system.png)
  - [URL Shortener](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener.png) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener.jpg) |
-       [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-oct13.png)
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-oct13.png) |
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-2.png)
  - [YouTube](https://github.com/yhamuha/sys-des/blob/main/des/youtube.png)
  - [Google Drive](https://github.com/yhamuha/sys-des/blob/main/des/google-drive.png)
  - [Web Crowler](https://github.com/yhamuha/sys-des/blob/main/des/web-crowler.png)
