@@ -26,7 +26,7 @@
  - [Kafka](https://github.com/yhamuha/sys-des/blob/main/des/kafka.jpg)
  - [HTTP Rate Limiter](https://github.com/yhamuha/sys-des/blob/main/des/http-rate-limiter.png)
  - [Search Autocomplete System](https://github.com/yhamuha/sys-des/blob/main/des/autocomplete-system.png) |
-       [mock] (https://github.com/yhamuha/sys-des/blob/main/des/autocomplete-system.png)
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/autocomplete-system-2.png)
  - [URL Shortener](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener.png) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener.jpg) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-oct13.png) |
