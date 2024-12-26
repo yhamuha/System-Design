@@ -38,7 +38,4 @@
  - [Distributed Cache](https://github.com/yhamuha/sys-des/blob/main/des/distributed-cache.jpg) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/distributed-cache-2.png)
 
-### ood:
-
- - [Parking Lot](https://github.com/yhamuha/sys-des/blob/main/ood/parking-lot.png)
  
