@@ -1,4 +1,4 @@
-### sys-des: 
+### System-Design: 
 
  - [Proximity service](https://github.com/yhamuha/sys-des/blob/main/des/proximity-service.jpg) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/proximity-service-mock.png)
