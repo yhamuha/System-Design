@@ -40,4 +40,5 @@
  - [Distributed Cache](https://github.com/yhamuha/sys-des/blob/main/des/distributed-cache.jpg) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/distributed-cache-2.png)
  - [Messaging Service](https://github.com/yhamuha/sys-des/blob/main/des/messaging-service.png)
+ - [Parking Lot](https://github.com/yhamuha/sys-des/blob/main/des/parking-lot.png)
  
