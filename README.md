@@ -12,7 +12,8 @@
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-aggregation.png) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/add-click-aggr.png)
  - [Distributed email service](https://github.com/yhamuha/sys-des/blob/main/des/email-service.pdf)
- - [Hotel Reservation System](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.pdf)
+ - [Hotel Reservation System](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.pdf) |
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.png)
  - [S3-like Object Storage](https://github.com/yhamuha/sys-des/blob/main/des/s3_like_object_storage.pdf) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-storage-system.png) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-sys-des.png)
