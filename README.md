@@ -43,4 +43,4 @@
  - [Messaging Service](https://github.com/yhamuha/sys-des/blob/main/des/messaging-service.png)
  - [Parking Lot](https://github.com/yhamuha/sys-des/blob/main/des/parking-lot.png)
  - [Recommendation System](https://github.com/yhamuha/sys-des/blob/main/des/recommendation-system.png)
- 
+ - [Strava](https://github.com/yhamuha/sys-des/blob/main/des/strava.png)
