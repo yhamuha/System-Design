@@ -35,7 +35,8 @@
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-2.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-3.png)
  - [YouTube](https://github.com/yhamuha/sys-des/blob/main/des/youtube.png)
- - [Google Drive](https://github.com/yhamuha/sys-des/blob/main/des/google-drive.png)
+ - [Google Drive](https://github.com/yhamuha/sys-des/blob/main/des/google-drive.png) |
+   [mock](https://github.com/yhamuha/sys-des/blob/main/des/google-drive-2.png)
  - [Web Crowler](https://github.com/yhamuha/sys-des/blob/main/des/web-crowler.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/web-crowler-2.png)
  - [Instagram](https://github.com/yhamuha/sys-des/blob/main/des/instagram.jpg)
