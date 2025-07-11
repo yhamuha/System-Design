@@ -48,3 +48,4 @@
  - [Recommendation System](https://github.com/yhamuha/sys-des/blob/main/des/recommendation-system.png)
  - [Strava Fitness Tracker](https://github.com/yhamuha/sys-des/blob/main/des/strava-fitness-tracker.png)
  - [Notification System](https://github.com/yhamuha/sys-des/blob/main/des/notification-system.png)
+ - [Spotify](https://github.com/yhamuha/sys-des/blob/main/des/spotify.png)
