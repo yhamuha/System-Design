@@ -50,3 +50,4 @@
  - [Notification System](https://github.com/yhamuha/sys-des/blob/main/des/notification-system.png)
  - [Spotify](https://github.com/yhamuha/sys-des/blob/main/des/spotify.png)
  - [Meta Post Search](https://github.com/yhamuha/sys-des/blob/main/des/meta_post_search.png)
+ - [Meta News Feed](https://github.com/yhamuha/sys-des/blob/main/des/meta_news_feed.png)
