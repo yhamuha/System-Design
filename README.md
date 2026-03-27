@@ -49,9 +49,5 @@
  - [Strava Fitness Tracker](https://github.com/yhamuha/sys-des/blob/main/des/strava-fitness-tracker.png)
  - [Notification System](https://github.com/yhamuha/sys-des/blob/main/des/notification-system.png)
  - [Spotify](https://github.com/yhamuha/sys-des/blob/main/des/spotify.png)
-<<<<<<< HEAD
  - [Meta Post Search](https://github.com/yhamuha/sys-des/blob/main/des/meta_post_search.png)
  - [Meta News Feed](https://github.com/yhamuha/sys-des/blob/main/des/meta_news_feed.png)
-=======
- - [Meta Post Search](https://github.com/yhamuha/sys-des/blob/main/des/meta_post_search.png)
->>>>>>> parent of 34bcf17 (sys-des.)
