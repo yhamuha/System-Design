@@ -18,7 +18,7 @@
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-storage-system.png) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-sys-des.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3_storage.png)
- - [DropBox](https://github.com/yhamuha/sys-des/blob/main/des/drop_box)
+ - [DropBox](https://github.com/yhamuha/sys-des/blob/main/des/drop_box.png)
  - [File Upload Flow](https://github.com/yhamuha/sys-des/blob/main/des/file-upload-flow.png)
  - [Real-Time Gaming Leaderboard](https://github.com/yhamuha/sys-des/blob/main/des/real-time-gaming-leaderboard.pdf)
  - [Payment System](https://github.com/yhamuha/sys-des/blob/main/des/payment-system.pdf) | 
