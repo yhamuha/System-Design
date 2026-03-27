@@ -16,7 +16,8 @@
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/hotel-reservation.png)
  - [S3-like Object Storage](https://github.com/yhamuha/sys-des/blob/main/des/s3_like_object_storage.pdf) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-storage-system.png) | 
-       [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-sys-des.png)
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3-sys-des.png) |
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/s3_storage.png)
  - [DropBox](https://github.com/yhamuha/sys-des/blob/main/des/drop_box)
  - [File Upload Flow](https://github.com/yhamuha/sys-des/blob/main/des/file-upload-flow.png)
  - [Real-Time Gaming Leaderboard](https://github.com/yhamuha/sys-des/blob/main/des/real-time-gaming-leaderboard.pdf)
