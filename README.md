@@ -6,6 +6,7 @@
  - [Google maps](https://github.com/yhamuha/sys-des/blob/main/des/google-maps.jpg)
  - [Distributed message queue](https://github.com/yhamuha/sys-des/blob/main/des/distributed-message-queue.jpg) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/distributed-message-system.png)
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/message-queue.png)
  - [Metrics Monitoring and Alerting system](https://github.com/yhamuha/sys-des/blob/main/des/monitoring-alerting.jpg) | 
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/metric-alerting-system.jpg)
  - [Add Click Event Aggregation](https://github.com/yhamuha/sys-des/blob/main/des/ad-click-event-aggregation.pdf) | 
@@ -37,7 +38,7 @@
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-2.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-3.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/url-shortener-4.png) |
-       [*mock](https://github.com/yhamuha/sys-des/blob/main/des/url_short-impr.jpg)
+       [mock](https://github.com/yhamuha/sys-des/blob/main/des/url_short-impr.jpg)
  - [PasteBin](https://github.com/yhamuha/sys-des/blob/main/des/paste-bin.png)
  - [YouTube](https://github.com/yhamuha/sys-des/blob/main/des/youtube.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/you_tube_2.png) 
