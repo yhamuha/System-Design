@@ -45,6 +45,7 @@
  - [Google Drive](https://github.com/yhamuha/sys-des/blob/main/des/google-drive.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/google-drive-2.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/google-drive-3.png)
+ - [Google Docs](https://github.com/yhamuha/sys-des/blob/main/des/google-docs.png)
  - [Web Crowler](https://github.com/yhamuha/sys-des/blob/main/des/web-crowler.png) |
        [mock](https://github.com/yhamuha/sys-des/blob/main/des/web-crowler-2.png)
  - [Instagram](https://github.com/yhamuha/sys-des/blob/main/des/instagram.jpg)
