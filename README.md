@@ -63,4 +63,5 @@
  - [Whats Up](https://github.com/yhamuha/sys-des/blob/main/des/whats-up.png)
  - [Mint](https://github.com/yhamuha/sys-des/blob/main/des/mint.png)
  - [Reddit r/place](https://github.com/yhamuha/sys-des/blob/main/des/reddit_r_place.png)
+ - [Paranoid Instagrammer](https://github.com/yhamuha/sys-des/blob/main/des/paranoid-instagrammer.png)
  
